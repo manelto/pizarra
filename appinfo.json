@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_IDIOMA": 1,
+        "KEY_INVERT": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "manelto",
+    "longName": "BlackBoard Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Amano.ttf",
+                "name": "amano_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Amano.ttf",
+                "name": "amano_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Amano.ttf",
+                "name": "amano_40",
+                "type": "font"
+            },
+            {
+                "file": "images/pizarra.png",
+                "name": "pizarra",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "shortName": "BlackBoard",
+    "uuid": "2072bf1b-28b6-49d2-9ee0-209ca7231e23",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
